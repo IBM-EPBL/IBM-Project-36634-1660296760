@@ -40,6 +40,7 @@
     
     4. Gokul S [TM3] - 312819104030
    </div>
+  
 <div>
  <h2><picture>
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" alt="🎉" width="32" height="32">
@@ -189,7 +190,7 @@ After completing this project, you will learn how to
 <div>
  <h2><picture>
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" alt="🎉" width="32" height="32">
-</picture>$\color[RGB]{153,153,255} FINAL \ OUTPUT📲:$</h2></div>     
+</picture>$\color[RGB]{153,153,255} FINAL \ OUTPUT:$</h2></div>   
 
 
 ![image](https://user-images.githubusercontent.com/83297844/197362647-7519174f-69f1-474b-b9c9-26ecd3a6efe2.png)
